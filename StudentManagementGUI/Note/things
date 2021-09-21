@@ -1,0 +1,3 @@
+create database - create database student;
+
+create table - create table student(name varchar(10), branch varchar(30), mobile int primary key, gender varchar(20), doj varchar(50));
